@@ -108,7 +108,7 @@ function functionR(){
 
 function functionS(){
 
-		var button = document.getElementById("eathome");
+		var button = document.getElementById("caterina");
         window.location = 'caterina.html';
 	};
 
@@ -138,7 +138,7 @@ function functionW(){
 
 function functionX(){
 
-		var button = document.getElementById("backhome");
+		var button = document.getElementById("boat");
         window.location = 'boat.html';
 	};
 
